@@ -1,0 +1,8 @@
+1. show => show all the todo 
+2. add Task 
+3. edit TaskID New_Task
+4. remove TaskID
+5. complete TaskID => True is todo complete
+6. incomplete TaskID => False is todo incomplete
+7. help => print all the command can use in app
+8. quit => exit the application
